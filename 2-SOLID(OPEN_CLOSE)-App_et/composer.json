@@ -1,0 +1,23 @@
+{
+    "name": "jos_i/app_etl",
+    "autoload": {
+        "psr-4": {
+            "JosI\\AppEtl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josimar de Souza Alves",
+            "email": "josimar.negocioslmtda@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    
+    }
+
+
+}

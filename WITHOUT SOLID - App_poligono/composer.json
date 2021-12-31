@@ -1,0 +1,15 @@
+{
+    "name": "jos_i/app_poligono",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josimar",
+            "email": "jo03011991@gmail.com"
+        }
+    ],
+    "require": {}
+}
