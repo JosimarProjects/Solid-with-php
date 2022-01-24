@@ -1,0 +1,15 @@
+{
+    "name": "jos_i/app_mensageiro",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josimar Alves",
+            "email": "josimar.negocioslmtda@gmail.com"
+        }
+    ],
+    "require": {}
+}
